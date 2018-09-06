@@ -12,6 +12,7 @@ module.exports = {
     'declaration-block-no-duplicate-properties': true,
     'declaration-block-no-redundant-longhand-properties': true,
     'declaration-block-semicolon-newline-after': 'always',
+    'declaration-colon-newline-after': null,
     'font-family-name-quotes': 'always-unless-keyword',
     'font-weight-notation': 'numeric',
     'function-parentheses-space-inside': 'never',
