@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-payscale",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "PayScale's own stylelint configuration.",
   "main": "index.js",
   "scripts": {
